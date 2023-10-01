@@ -23,7 +23,7 @@ Note: If you have a CUDA-compatible GPU, you might want to install `faiss-gpu` i
 ## Setup
 
 1. Clone this repository.
-2. Set up a `.env` file in the project root with necessary configurations (if any).
+2. Set up a `.env` file in the project root with your oenAI API key [OPENAI_API_KEY="Your API key from OpenAI).
 3. Navigate to the project directory in the terminal.
 4. Run the following command to start the Streamlit app:
 
