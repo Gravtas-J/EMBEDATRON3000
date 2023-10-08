@@ -3,3 +3,4 @@ pickle
 python-dotenv
 langchain
 streamlit
+openai
