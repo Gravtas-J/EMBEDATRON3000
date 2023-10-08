@@ -1,0 +1,5 @@
+pypdf
+pickle
+python-dotenv
+langchain
+streamlit
